@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '309'
     url: http://www.gutenberg.org/2009/agents/309
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29341#The-Story-of-the-Great-War-Volume-5--13-Battle-of-Jutland-Bank--Russian-Offensive--Kut-El-Ama_
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2009-07-07'
 gutenberg_type: Text
